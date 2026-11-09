@@ -1,15 +1,7 @@
-# JSM Portal Guard — Official Documentation & Legal Repository
+# This copy has moved
 
-Official public documentation, privacy policy, end-user license agreement (EULA), and Marketplace assets for **JSM Portal Guard** (`ari:cloud:ecosystem::app/46bde883-178a-469f-8082-e951adb34b9f`), built 100% on Atlassian Forge (`Runs on Atlassian`).
+This folder held an old copy of the documentation and is no longer maintained. The current overview for **Portal Forms and Approvals for Jira Service Management** is [README.md](../../README.md) at the top of this repository.
 
-## Quick Links for Atlassian Marketplace Partner Portal
-- **User Guide & Documentation**: [USER_GUIDE.md](./USER_GUIDE.md)
-- **Privacy Policy & Data Residency Statement**: [PRIVACY_AND_SECURITY.md](./PRIVACY_AND_SECURITY.md)
-- **End-User License Agreement (EULA) & Terms of Use**: [EULA.md](./EULA.md)
-- **Marketplace Listing Copy**: [LISTING_COPY.md](./LISTING_COPY.md)
-- **Recommended Pricing Tiers**: [PRICING_TABLE.md](./PRICING_TABLE.md)
-
-## Product Screenshots (`1440x900`)
-- [01-admin-rule-builder.png](./screenshots/01-admin-rule-builder.png)
-- [02-portal-dynamic-fields.png](./screenshots/02-portal-dynamic-fields.png)
-- [03-customer-approval-signature.png](./screenshots/03-customer-approval-signature.png)
+- Privacy policy: [PRIVACY_POLICY.md](../../PRIVACY_POLICY.md)
+- Security: [SECURITY.md](../../SECURITY.md)
+- Support: https://evidencepair.com/support/
