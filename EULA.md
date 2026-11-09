@@ -1,13 +1,13 @@
-# End-User License Agreement (EULA) & Terms of Use — JSM Portal Guard
+# End-User License Agreement (EULA) & Terms of Use — Portal Forms and Approvals for Jira Service Management
 
 **Effective Date**: October 14, 2026  
 **Licensor**: EvidencePair LLC ("Vendor")  
-**Application**: JSM Portal Guard (`ari:cloud:ecosystem::app/46bde883-178a-469f-8082-e951adb34b9f`)
+**Application**: Portal Forms and Approvals for Jira Service Management (`ari:cloud:ecosystem::app/46bde883-178a-469f-8082-e951adb34b9f`)
 
 ---
 
 ## 1. Acceptance of Terms
-By installing, enabling, or using **JSM Portal Guard** ("the App") from the Atlassian Marketplace, you ("Customer" or "Licensee") agree to be bound by this End-User License Agreement ("EULA").
+By installing, enabling, or using **Portal Forms and Approvals for Jira Service Management** ("the App") from the Atlassian Marketplace, you ("Customer" or "Licensee") agree to be bound by this End-User License Agreement ("EULA").
 
 ## 2. License Grant
 Subject to an active Atlassian Marketplace subscription or evaluation license, Vendor grants Customer a worldwide, non-exclusive, non-transferable, non-sublicensable license to install and use the App within Customer's subscribed Atlassian Jira Service Management Cloud instance.
@@ -15,7 +15,7 @@ Subject to an active Atlassian Marketplace subscription or evaluation license, V
 ## 3. Architecture & Data Ownership
 - The App runs 100% on the **Atlassian Forge Cloud platform** (`Runs on Atlassian`) with zero external data egress.
 - Customer retains 100% ownership of all configurations stored in Jira Project Properties (`jsmPortalGuardConfig`) and all approval audit records stored in Jira Issue Properties (`jsmPortalGuardApproval`).
-- Vendor does not access, collect, store, or transmit Customer data outside of Customer's Atlassian Cloud environment.
+- The App stores its data only in Customer's Jira site, and Vendor keeps no copy. The App writes some operational details, including Atlassian account IDs, to Atlassian's Forge platform logs, as described in the [privacy policy](./PRIVACY_POLICY.md).
 
 ## 4. Restrictions
 Customer shall not:
@@ -30,4 +30,4 @@ THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, EXP
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL VENDOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES. VENDOR'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS EULA SHALL NOT EXCEED THE TOTAL AMOUNT PAID BY CUSTOMER FOR THE APP IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE TO LIABILITY.
 
 ## 7. Contact Information
-Questions regarding this EULA may be directed to **EvidencePair LLC** at `support@titlecovenant.com`.
+Questions regarding this EULA may be directed to **EvidencePair LLC** at https://evidencepair.com/support/ (support@evidencepair.com).

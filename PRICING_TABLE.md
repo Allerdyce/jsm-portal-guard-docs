@@ -1,4 +1,4 @@
-# Atlassian Marketplace Pricing Table — JSM Portal Guard
+# Atlassian Marketplace Pricing Table — Portal Forms and Approvals for Jira Service Management
 
 ## Pricing Model Overview
 - **Billing Engine**: Atlassian Marketplace Cloud Per-User Progressive Tiered Pricing (`app.licensing.enabled: true`)
@@ -26,4 +26,4 @@
 
 ## Competitive Positioning Notes
 - **Note on JSM Licensing**: In Jira Service Management Cloud, Atlassian Marketplace app billing counts **licensed JSM Agents** (unlicensed portal customers are always free and unlimited via `unlicensedAccess: [customer]`).
-- **Value Anchor**: Competing JSM workflow/forms apps charge \$3.50–\$5.50/agent/month and require external cloud databases. JSM Portal Guard undercuts legacy competitors while offering 100% *Runs on Atlassian* zero-egress compliance.
+- **Value Anchor**: Competing JSM workflow/forms apps charge \$3.50–\$5.50/agent/month. Portal Forms and Approvals for Jira Service Management undercuts legacy competitors while running 100% on Atlassian (*Runs on Atlassian*) with zero data egress.
